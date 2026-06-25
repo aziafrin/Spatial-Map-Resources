@@ -5,3 +5,6 @@ https://gadm.org/index.html
 
 
 https://rspatial.org/intr/index.html
+
+## Bayesian Modeling of Spatio-Temporal Data with R By Sujit K. Sahu (2022), Chapman and Hall/CRC:
+https://sujitsahu.com/bookbmstdr
